@@ -1,3 +1,7 @@
 # dragon_tales
 
-our first web app, telling a story about dragons, fairies, and dwarves
+This web app takes you on an enchanting and unconventional encounter with dragons, fairies, and dwarves...
+
+link to play: 
+
+https://hardcore-kare-2ea6cd.netlify.app/
