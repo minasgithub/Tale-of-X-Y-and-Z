@@ -1,0 +1,254 @@
+html {
+  font-size: 1rem;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: white;
+}
+
+body {
+  padding-top: 0;
+  margin: 0;
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 1.1rem;
+}
+
+footer {
+  background-color: #5eaaa8;
+  font-size: 0.8rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: "Carter One";
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.banner {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  width: 100%;
+  z-index: 1;
+  opacity: 0.9;
+  position: fixed;
+  height: 8rem;
+}
+
+.chapter {
+  padding-top: 9rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  text-align: center;
+}
+
+.mm {
+  font-family: Meddon;
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+h1 {
+  font-family: "Meddon";
+  font-size: 2.2rem;
+  text-align: center;
+}
+
+.dwarfs {
+   margin-top: 3rem;
+}
+
+
+.next {
+font-family: "Caveat";
+font-size: 1.3rem;
+color: black;
+}
+
+.parent-opts {
+  display: flex;
+  justify-content: center;
+}
+
+#logo {
+  padding: 3rem;
+  width: 6rem;
+  height: auto;
+}
+
+#first-dragon-img{
+  width: 40rem;
+  height: auto;
+}
+
+#cornfield-img {
+  width: 40rem;
+  height: auto;
+}
+
+#dwarf-img{
+  height: 40rem;
+  width: auto;
+  margin-left: 20rem;
+}
+
+#dwarf-img-2{
+  width: 40rem;
+  height: auto;
+}
+
+#fairy-img {
+  width: 50rem;
+  height: auto;
+  margin-left: 10rem;
+}
+
+#finalimg {
+padding-top: 0;
+height: 22rem;
+width: auto;
+padding-bottom: 3rem;
+}
+
+.opt1 {
+display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #28527a;
+  line-height: 1.7rem;
+  font-weight: lighter;
+  font-size: 0.9rem;
+  border-radius: 2rem;
+  padding: 0.5rem;
+  margin: 1rem;
+  color: white;
+  border: none;
+  width: 200px;
+  height: 150px;
+  font-size: 1rem;
+  padding: 2rem;
+}
+
+.opt2 {
+display: flex;
+font-family: Roboto;
+  justify-content: center;
+  align-items: center;
+  background-color: #28527a;
+  line-height: 1.7rem;
+  font-weight: lighter;
+  font-size: 0.9rem;
+  border-radius: 2rem;
+  padding: 0.5rem;
+  margin: 1rem;
+  color: white;
+  border: none;
+  width: 200px;
+  height: 250px;
+  font-size: 1rem;
+  padding: 2rem;
+}
+
+.opt3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #28527a;
+  line-height: 1.7rem;
+  font-weight: lighter;
+  font-size: 0.9rem;
+  border-radius: 2rem;
+  padding: 0.5rem;
+  margin: 1rem;
+  color: white;
+  border: none;
+  width: 300px;
+  height: 370px;
+  font-size: 1rem;
+  padding: 2rem;
+}
+
+.opt4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #28527a;
+  line-height: 1.7rem;
+  font-weight: lighter;
+  font-size: 0.9rem;
+ border-radius: 2rem;
+  padding: 0.5rem;
+  margin: 1rem;
+  color: white;
+  border: none;
+  width: 200px;
+  height: 220px;
+  font-size: 1rem;
+  padding: 2rem;
+}
+
+.opt5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #28527a;
+  line-height: 1.7rem;
+  font-weight: lighter;
+  font-size: 0.9rem;
+ border-radius: 2rem;
+  padding: 0.5rem;
+  margin: 1rem;
+  color: white;
+  border: none;
+  width: 200px;
+  height: 160px;
+  font-size: 1rem;
+  padding: 2rem;
+}
+
+#anchor1 {
+  color: white;
+  text-decoration: none;
+}
+
+#anchor2 {
+  color: white;
+  text-decoration: none;
+}
+
+#anchor3 {
+  color: white;
+  text-decoration: none;
+}
+
+#anchor4 {
+  color: white;
+  text-decoration: none;
+}
+
+#anchor5 {
+  color: white;
+  text-decoration: none;
+}
+
+#final-note {
+  padding-top: 9rem;
+  font-family: "Carter One";
+  color: #ffc75f;
+  font-size: 2.4rem;
+}
+
+
+
+
+
+
+
+
